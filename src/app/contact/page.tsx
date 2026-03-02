@@ -17,11 +17,7 @@ export default function Contact() {
             <div>
               <div className="contact-block">
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem', marginBottom: '2rem' }}>
-                 <img
-  src="/images/JD-Doris.jpg"
-  alt="JD Doris"
-  className="profile-img"
-  style={{ objectFit: 'cover', width: '280px', height: '280px' }}
+                 <img src="/images/JD-Doris.jpg" alt="JD Doris" className="profile-img" style={{ objectFit: 'cover', width: '280px', height: '280px' }}
 />
                   <div>
                     <h3 style={{ margin: 0 }}>JD Doris</h3>
