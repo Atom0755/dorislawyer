@@ -58,7 +58,7 @@ export default function Home() {
             </div>
             <div style={{ textAlign: 'center' }}>
               <Image
-                src="/dorislawyer.com/JD-Doris.jpg"
+                src="public/images/JD-Doris.jpg"
                 alt="JD Doris"
                 width={320}
                 height={320}
