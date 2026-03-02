@@ -57,14 +57,12 @@ export default function Home() {
               </div>
             </div>
             <div style={{ textAlign: 'center' }}>
-              <Image
-                src="/images/JD-Doris.jpg"
-                alt="JD Doris"
-                width={320}
-                height={320}
-                className="profile-img"
-                style={{ objectFit: 'cover', width: '280px', height: '280px' }}
-              />
+            <img
+  src="/images/JD-Doris.jpg"
+  alt="JD Doris"
+  className="profile-img"
+  style={{ objectFit: 'cover', width: '280px', height: '280px' }}
+/>
             </div>
           </div>
         </div>
